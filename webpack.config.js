@@ -14,7 +14,7 @@ module.exports = {
     disableHostCheck: true,
   },
   resolve: {
-    extensions: ['.js', '.jsx'],
+    extensions: ['.js', '.jsx', '.png'],
   },
   plugins: [],
   devtool: 'source-map',
